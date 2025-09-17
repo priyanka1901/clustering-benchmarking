@@ -91,3 +91,11 @@ Example plots showing good and poor clustering results for each dataset under va
 ## Conclusion
 
 This study confirms that there is no one-size-fits-all clustering algorithm. The optimal choice depends heavily on the underlying structure of the data. For complex, non-convex shapes, density-based and spectral methods are superior. For simpler, convex data, traditional methods like K-Means and GMM are both effective and efficient. GMM proved most effective in high-dimensional settings. Ultimately, understanding the data's geometry and the specific goals of the analysis are crucial for selecting the best clustering technique.
+
+---
+##  Acknowledgements
+
+This was a collaborative project completed with my talented colleagues:
+
+* **Siddhant Mohanty** - [GitHub Profile](https://github.com/siddmohanty111)
+* **Veda Sahithi Bandi** -[GitHub Profile](https://github.com/VedaBandi1807)
