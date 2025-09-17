@@ -6,12 +6,12 @@ This project provides a comprehensive benchmark of five major clustering algorit
 
 
 ## Table of Contents
-- [About the Project](#-about-the-project)
-- [Algorithms Compared](#-algorithms-compared)
-- [Key Findings](#-key-findings)
-- [How to Run](#-how-to-run)
-- [Evaluation Metrics](#-evaluation-metrics)
-- [Conclusion](#-conclusion)
+- [About the Project](#about-the-project)
+- [Algorithms Compared](#algorithms-compared)
+- [Key Findings](#key-findings)
+- [How to Run](#how-to-run)
+- [Evaluation Metrics](#evaluation-metrics)
+- [Conclusion](#conclusion)
 
 ---
 
