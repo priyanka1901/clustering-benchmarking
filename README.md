@@ -12,6 +12,7 @@ This project provides a comprehensive benchmark of five major clustering algorit
 - [How to Run](#how-to-run)
 - [Evaluation Metrics](#evaluation-metrics)
 - [Conclusion](#conclusion)
+- [Acknowledgements](#Acknowledgements)
 
 ---
 
