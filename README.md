@@ -28,7 +28,7 @@ Each simulation was repeated 20 times to ensure robust and reliable results.
 
 ---
 
-![A grid showing the synthetic datasets](./images/synthetic_datasets_plot.png)
+![A grid showing the synthetic datasets](./images/synthetic_datasets/synthetic_datasets_plot.png)
 
 
 ## Algorithms Compared
@@ -85,7 +85,7 @@ Algorithm performance was assessed using five external validation metrics that c
 
 ---
 
-![Clustering results on all datasets](./images/clustering_results.png)
+![Clustering results on all datasets](./images/synthetic_datasets/clustering_results.png)
 Example plots showing good and poor clustering results for each dataset under varying cluster settings. Last row shows 10D Moons results using K-means, GMM, Spectral, and DBSCAN (Fuzzy is excluded due to similarity with K-means in this setting
 
 ## Conclusion
